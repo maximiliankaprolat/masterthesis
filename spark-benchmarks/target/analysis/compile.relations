@@ -1,0 +1,49 @@
+products:
+   spark-benchmarks/src/main/scala/AdvertisingSpark.scala -> spark-benchmarks/target/classes/spark/benchmark/KafkaRedisAdvertisingStream$$anonfun$1.class
+   spark-benchmarks/src/main/scala/AdvertisingSpark.scala -> spark-benchmarks/target/classes/spark/benchmark/KafkaRedisAdvertisingStream$$anonfun$2.class
+   spark-benchmarks/src/main/scala/AdvertisingSpark.scala -> spark-benchmarks/target/classes/spark/benchmark/KafkaRedisAdvertisingStream$$anonfun$3.class
+   spark-benchmarks/src/main/scala/AdvertisingSpark.scala -> spark-benchmarks/target/classes/spark/benchmark/KafkaRedisAdvertisingStream$$anonfun$4.class
+   spark-benchmarks/src/main/scala/AdvertisingSpark.scala -> spark-benchmarks/target/classes/spark/benchmark/KafkaRedisAdvertisingStream$$anonfun$5.class
+   spark-benchmarks/src/main/scala/AdvertisingSpark.scala -> spark-benchmarks/target/classes/spark/benchmark/KafkaRedisAdvertisingStream$$anonfun$6.class
+   spark-benchmarks/src/main/scala/AdvertisingSpark.scala -> spark-benchmarks/target/classes/spark/benchmark/KafkaRedisAdvertisingStream$$anonfun$7.class
+   spark-benchmarks/src/main/scala/AdvertisingSpark.scala -> spark-benchmarks/target/classes/spark/benchmark/KafkaRedisAdvertisingStream$$anonfun$8.class
+   spark-benchmarks/src/main/scala/AdvertisingSpark.scala -> spark-benchmarks/target/classes/spark/benchmark/KafkaRedisAdvertisingStream$$anonfun$9.class
+   spark-benchmarks/src/main/scala/AdvertisingSpark.scala -> spark-benchmarks/target/classes/spark/benchmark/KafkaRedisAdvertisingStream$$anonfun$joinHosts$1.class
+   spark-benchmarks/src/main/scala/AdvertisingSpark.scala -> spark-benchmarks/target/classes/spark/benchmark/KafkaRedisAdvertisingStream$$anonfun$main$1$$anonfun$apply$1.class
+   spark-benchmarks/src/main/scala/AdvertisingSpark.scala -> spark-benchmarks/target/classes/spark/benchmark/KafkaRedisAdvertisingStream$$anonfun$main$1.class
+   spark-benchmarks/src/main/scala/AdvertisingSpark.scala -> spark-benchmarks/target/classes/spark/benchmark/KafkaRedisAdvertisingStream$$anonfun$queryRedis$1.class
+   spark-benchmarks/src/main/scala/AdvertisingSpark.scala -> spark-benchmarks/target/classes/spark/benchmark/KafkaRedisAdvertisingStream$$anonfun$spark$benchmark$KafkaRedisAdvertisingStream$$writeWindow$1.class
+   spark-benchmarks/src/main/scala/AdvertisingSpark.scala -> spark-benchmarks/target/classes/spark/benchmark/KafkaRedisAdvertisingStream$$anonfun$writeRedisTopLevel$1.class
+   spark-benchmarks/src/main/scala/AdvertisingSpark.scala -> spark-benchmarks/target/classes/spark/benchmark/KafkaRedisAdvertisingStream$.class
+   spark-benchmarks/src/main/scala/AdvertisingSpark.scala -> spark-benchmarks/target/classes/spark/benchmark/KafkaRedisAdvertisingStream.class
+binary dependencies:
+   spark-benchmarks/src/main/scala/AdvertisingSpark.scala -> streaming-benchmark-common/target/streaming-benchmark-common-0.1.0.jar
+   spark-benchmarks/src/main/scala/AdvertisingSpark.scala -> /root/.m2/repository/org/apache/kafka/kafka_2.10/0.8.2.1/kafka_2.10-0.8.2.1.jar
+   spark-benchmarks/src/main/scala/AdvertisingSpark.scala -> /root/.m2/repository/org/apache/spark/spark-core_2.10/1.6.2/spark-core_2.10-1.6.2.jar
+   spark-benchmarks/src/main/scala/AdvertisingSpark.scala -> /root/.m2/repository/org/apache/spark/spark-streaming-kafka_2.10/1.6.2/spark-streaming-kafka_2.10-1.6.2.jar
+   spark-benchmarks/src/main/scala/AdvertisingSpark.scala -> /root/.m2/repository/org/apache/spark/spark-streaming_2.10/1.6.2/spark-streaming_2.10-1.6.2.jar
+   spark-benchmarks/src/main/scala/AdvertisingSpark.scala -> /root/.m2/repository/org/json/json/20140107/json-20140107.jar
+   spark-benchmarks/src/main/scala/AdvertisingSpark.scala -> /root/.m2/repository/org/scala-lang/scala-library/2.10.4/scala-library-2.10.4.jar
+   spark-benchmarks/src/main/scala/AdvertisingSpark.scala -> /root/.m2/repository/org/sedis/sedis_2.10/1.2.2/sedis_2.10-1.2.2.jar
+   spark-benchmarks/src/main/scala/AdvertisingSpark.scala -> /root/.m2/repository/redis/clients/jedis/2.4.2/jedis-2.4.2.jar
+   spark-benchmarks/src/main/scala/AdvertisingSpark.scala -> /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar
+source dependencies:
+external dependencies:
+class names:
+   spark-benchmarks/src/main/scala/AdvertisingSpark.scala -> spark.benchmark.KafkaRedisAdvertisingStream
+   spark-benchmarks/src/main/scala/AdvertisingSpark.scala -> spark.benchmark.KafkaRedisAdvertisingStream$
+   spark-benchmarks/src/main/scala/AdvertisingSpark.scala -> spark.benchmark.KafkaRedisAdvertisingStream$$anonfun$1
+   spark-benchmarks/src/main/scala/AdvertisingSpark.scala -> spark.benchmark.KafkaRedisAdvertisingStream$$anonfun$2
+   spark-benchmarks/src/main/scala/AdvertisingSpark.scala -> spark.benchmark.KafkaRedisAdvertisingStream$$anonfun$3
+   spark-benchmarks/src/main/scala/AdvertisingSpark.scala -> spark.benchmark.KafkaRedisAdvertisingStream$$anonfun$4
+   spark-benchmarks/src/main/scala/AdvertisingSpark.scala -> spark.benchmark.KafkaRedisAdvertisingStream$$anonfun$5
+   spark-benchmarks/src/main/scala/AdvertisingSpark.scala -> spark.benchmark.KafkaRedisAdvertisingStream$$anonfun$6
+   spark-benchmarks/src/main/scala/AdvertisingSpark.scala -> spark.benchmark.KafkaRedisAdvertisingStream$$anonfun$7
+   spark-benchmarks/src/main/scala/AdvertisingSpark.scala -> spark.benchmark.KafkaRedisAdvertisingStream$$anonfun$8
+   spark-benchmarks/src/main/scala/AdvertisingSpark.scala -> spark.benchmark.KafkaRedisAdvertisingStream$$anonfun$9
+   spark-benchmarks/src/main/scala/AdvertisingSpark.scala -> spark.benchmark.KafkaRedisAdvertisingStream$$anonfun$joinHosts$1
+   spark-benchmarks/src/main/scala/AdvertisingSpark.scala -> spark.benchmark.KafkaRedisAdvertisingStream$$anonfun$main$1
+   spark-benchmarks/src/main/scala/AdvertisingSpark.scala -> spark.benchmark.KafkaRedisAdvertisingStream$$anonfun$main$1$$anonfun$apply$1
+   spark-benchmarks/src/main/scala/AdvertisingSpark.scala -> spark.benchmark.KafkaRedisAdvertisingStream$$anonfun$queryRedis$1
+   spark-benchmarks/src/main/scala/AdvertisingSpark.scala -> spark.benchmark.KafkaRedisAdvertisingStream$$anonfun$spark$benchmark$KafkaRedisAdvertisingStream$$writeWindow$1
+   spark-benchmarks/src/main/scala/AdvertisingSpark.scala -> spark.benchmark.KafkaRedisAdvertisingStream$$anonfun$writeRedisTopLevel$1

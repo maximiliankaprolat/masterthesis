@@ -1,0 +1,40 @@
+products:
+   src/main/scala/AdvertisingKafka.scala -> target/classes/spark/benchmark/KafkaAdvertisingProducer$$anon$1$$anonfun$run$1.class
+   src/main/scala/AdvertisingKafka.scala -> target/classes/spark/benchmark/KafkaAdvertisingProducer$$anon$1.class
+   src/main/scala/AdvertisingKafka.scala -> target/classes/spark/benchmark/KafkaAdvertisingProducer$$anonfun$1.class
+   src/main/scala/AdvertisingKafka.scala -> target/classes/spark/benchmark/KafkaAdvertisingProducer$$anonfun$CreateRadomString$1.class
+   src/main/scala/AdvertisingKafka.scala -> target/classes/spark/benchmark/KafkaAdvertisingProducer$$anonfun$CreateRadomString$2.class
+   src/main/scala/AdvertisingKafka.scala -> target/classes/spark/benchmark/KafkaAdvertisingProducer$$anonfun$LoadConfFile$1.class
+   src/main/scala/AdvertisingKafka.scala -> target/classes/spark/benchmark/KafkaAdvertisingProducer$$anonfun$LoadConfFile$2.class
+   src/main/scala/AdvertisingKafka.scala -> target/classes/spark/benchmark/KafkaAdvertisingProducer$$anonfun$MakeIDs$1.class
+   src/main/scala/AdvertisingKafka.scala -> target/classes/spark/benchmark/KafkaAdvertisingProducer$$anonfun$Make_Kafka_Event$1.class
+   src/main/scala/AdvertisingKafka.scala -> target/classes/spark/benchmark/KafkaAdvertisingProducer$$anonfun$queryRedis$1.class
+   src/main/scala/AdvertisingKafka.scala -> target/classes/spark/benchmark/KafkaAdvertisingProducer$$anonfun$randomString$1.class
+   src/main/scala/AdvertisingKafka.scala -> target/classes/spark/benchmark/KafkaAdvertisingProducer$$anonfun$spark$benchmark$KafkaAdvertisingProducer$$writeWindow$1.class
+   src/main/scala/AdvertisingKafka.scala -> target/classes/spark/benchmark/KafkaAdvertisingProducer$$anonfun$writeRedisTopLevel$1.class
+   src/main/scala/AdvertisingKafka.scala -> target/classes/spark/benchmark/KafkaAdvertisingProducer$.class
+   src/main/scala/AdvertisingKafka.scala -> target/classes/spark/benchmark/KafkaAdvertisingProducer.class
+binary dependencies:
+   src/main/scala/AdvertisingKafka.scala -> /root/.m2/repository/org/apache/kafka/kafka-clients/0.8.2.1/kafka-clients-0.8.2.1.jar
+   src/main/scala/AdvertisingKafka.scala -> /root/.m2/repository/org/scala-lang/scala-library/2.10.4/scala-library-2.10.4.jar
+   src/main/scala/AdvertisingKafka.scala -> /root/.m2/repository/org/sedis/sedis_2.10/1.2.2/sedis_2.10-1.2.2.jar
+   src/main/scala/AdvertisingKafka.scala -> /root/.m2/repository/redis/clients/jedis/2.4.2/jedis-2.4.2.jar
+   src/main/scala/AdvertisingKafka.scala -> /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar
+source dependencies:
+external dependencies:
+class names:
+   src/main/scala/AdvertisingKafka.scala -> spark.benchmark.KafkaAdvertisingProducer
+   src/main/scala/AdvertisingKafka.scala -> spark.benchmark.KafkaAdvertisingProducer$
+   src/main/scala/AdvertisingKafka.scala -> spark.benchmark.KafkaAdvertisingProducer$$anon$1
+   src/main/scala/AdvertisingKafka.scala -> spark.benchmark.KafkaAdvertisingProducer$$anon$1$$anonfun$run$1
+   src/main/scala/AdvertisingKafka.scala -> spark.benchmark.KafkaAdvertisingProducer$$anonfun$1
+   src/main/scala/AdvertisingKafka.scala -> spark.benchmark.KafkaAdvertisingProducer$$anonfun$CreateRadomString$1
+   src/main/scala/AdvertisingKafka.scala -> spark.benchmark.KafkaAdvertisingProducer$$anonfun$CreateRadomString$2
+   src/main/scala/AdvertisingKafka.scala -> spark.benchmark.KafkaAdvertisingProducer$$anonfun$LoadConfFile$1
+   src/main/scala/AdvertisingKafka.scala -> spark.benchmark.KafkaAdvertisingProducer$$anonfun$LoadConfFile$2
+   src/main/scala/AdvertisingKafka.scala -> spark.benchmark.KafkaAdvertisingProducer$$anonfun$MakeIDs$1
+   src/main/scala/AdvertisingKafka.scala -> spark.benchmark.KafkaAdvertisingProducer$$anonfun$Make_Kafka_Event$1
+   src/main/scala/AdvertisingKafka.scala -> spark.benchmark.KafkaAdvertisingProducer$$anonfun$queryRedis$1
+   src/main/scala/AdvertisingKafka.scala -> spark.benchmark.KafkaAdvertisingProducer$$anonfun$randomString$1
+   src/main/scala/AdvertisingKafka.scala -> spark.benchmark.KafkaAdvertisingProducer$$anonfun$spark$benchmark$KafkaAdvertisingProducer$$writeWindow$1
+   src/main/scala/AdvertisingKafka.scala -> spark.benchmark.KafkaAdvertisingProducer$$anonfun$writeRedisTopLevel$1
